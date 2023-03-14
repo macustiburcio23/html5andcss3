@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hierárquia de títulos</title>
+</head>
+<body>
+    <h1>Entendendo Portugal</h1>
+    <h2>Introdução</h2>
+    <h3>Justificação de Temática</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit recusandae beatae id cupiditate porro pariatur et a, fuga dolorem facere laboriosam assumenda, ipsum deserunt. Assumenda quod harum deleniti adipisci saepe?</p>
+    <h3>Caráter execional</h3>
+    <h3>Perguntas de partida</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic velit quam corrupti fugiat, modi itaque amet ad. Ipsam provident nesciunt atque iste consectetur fuga. Quo, nemo consequatur. Dolore, enim quas!</p>
+    <h3>Metodologia de Investigação</h3>
+    <h4>Etapas de Investigação</h4>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ullam sapiente id non repudiandae fuga magnam architecto culpa corrupti tempore. Impedit maxime deleniti quasi, rem provident tenetur nemo laudantium natus iste.</p>
+    <h4>Intrumentos de Análise</h4>
+    <h2>Ordenamento do Território em Portugal</h2>
+    <h3>Os instrumentos de gestão</h3>
+</body>
+</html>
